@@ -6,7 +6,7 @@
     </a>
   </div>
 
-  <h3 align="center">👤 A developer and student of GXU 🏨</h3>
+  <h3 align="center">👤 A developer and a graduates of GXU 🏨</h3>
 
   <!-- welcome to my profile  -->
   <p align="center">
