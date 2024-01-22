@@ -37,12 +37,13 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.xxfer.cn/posts/86bbdefa.html' target='_blank'>GitHub首页DIY：花里胡哨指数++</a> - 2024-01-20
-* <a href='https://blog.xxfer.cn/posts/79f9b780.html' target='_blank'>反向代理神器：Nginx Proxy Manager</a> - 2024-01-17
-* <a href='https://blog.xxfer.cn/posts/4c41eeca.html' target='_blank'>Picsur imgur：docker部署简单易管理的图床项目</a> - 2024-01-15
-* <a href='https://blog.xxfer.cn/posts/a008ab16.html' target='_blank'>npm自建免费图床方案</a> - 2024-01-09
-* <a href='https://blog.xxfer.cn/posts/92211228.html' target='_blank'>jsDelivr自建免费图床方案</a> - 2024-01-08
-* <a href='https://blog.xxfer.cn/posts/7c372084.html' target='_blank'>我的CDN使用与防护方案：如何减少流量损失，应对恶意刷流量？</a> - 2024-01-05
+* <a href='https://www.lohblvwe.top/' target='_blank'>顶级域名网站</a> - 2022-09-15
+* <a href='https://blob.lohblvwe.top/' target='_blank'>赛博朋克风格博客</a> - 2023-12-12
+* <a href='https://azy.lohblvwe.top/' target='_blank'>安知鱼风格博客</a> - 2023-12-12
+* <a href='https://love.lohblvwe.top/' target='_blank'>情侣风格博客</a> - 2024-01-10
+* <a href='https://lover.lohblvwe.top/' target='_blank'>情侣风格博客2</a> - 2024-01-10
+* <a href='https://status.lohblvwe.top/' target='_blank'>网站状态监控</a> - 2023-01-15
+* <a href='https://img.lohblvwe.top/' target='_blank'>图床</a> - 2024-01-20
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
@@ -118,7 +119,7 @@
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&custom_title=Xxfer's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&custom_title=595493736's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&hide_border=true" />
         </picture>
@@ -147,12 +148,10 @@
 
 - 📫 How to reach me :
 
-<a href="https://xxfer.cn/"><img src="https://img.shields.io/badge/xxfer.cn-8C5AFF?logo=webrtc&logoColor=white" /></a>
-<a href="https://blog.xxfer.cn/"><img src="https://img.shields.io/badge/blog.xxfer.cn-004788?logo=blogger&logoColor=white" /></a>
-<a href="https://www.zhihu.com/people/shi-shi-88-90-43"><img src="https://img.shields.io/badge/zhihu-0084FF?logo=zhihu&logoColor=white" /></a>
-<a href="https://space.bilibili.com/1327183873/"><img src="https://img.shields.io/badge/Bilibili-FF5CAA?logo=bilibili&logoColor=white" /></a>
-<a href="telephone：18072988138"><img src="https://img.shields.io/badge/Wechat-07C160?logo=Wechat&logoColor=white" /></a>
-<a href="https://2021303114@mail.nwpu.edu.cn/"><img src="https://img.shields.io/badge/2021303114@mail.nwpu.edu.cn-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+<a href="https://blog.lohblvwe.top/"><img src="https://img.shields.io/badge/blog.lohblvwe.top-004788?logo=blogger&logoColor=white" /></a>
+<a href="https://azy.lohblvwe.top/"><img src="https://img.shields.io/badge/azy.lohblvwe.top-004788?logo=blogger&logoColor=white" /></a>
+<a href="telephone：xxxxxxxxxxx"><img src="https://img.shields.io/badge/Wechat-07C160?logo=Wechat&logoColor=white" /></a>
+<a href="https://mail.qq.com/"><img src="https://img.shields.io/badge/595493736@qq.com-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </tr>
 </td>
 <tr>
@@ -397,7 +396,7 @@ Windows                  33 hrs 11 mins      ███████████�
 
 <table>
 <tr>
-  <td><img src="./assets/images/rocket.png"/></td>
+  <td><img src="./assert/rocket.png"/></td>
 </tr>
 <tr>
   <td><img src="./assert/Bottom_down.svg"/></td>
