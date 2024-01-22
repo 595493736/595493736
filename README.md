@@ -6,7 +6,7 @@
     </a>
   </div>
 
-  <h3 align="center">👤 A developer and student of NWPU 🏨</h3>
+  <h3 align="center">👤 A developer and student of GXU 🏨</h3>
 
   <!-- welcome to my profile  -->
   <p align="center">
@@ -15,7 +15,7 @@
     <img src="./assert/animated-flame-01.gif" width="5.5%" align="right"/>
   </p>
 
-  ### <img width="5%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cat.gif" /> You are my ![Visitor Count](https://profile-counter.glitch.me/LJJbyZJU/count.svg) visitor, Thank you!
+  ### <img width="5%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/cat.gif" /> You are my ![Visitor Count](https://profile-counter.glitch.me/595493736/count.svg) visitor, Thank you!
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
