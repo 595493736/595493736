@@ -1,7 +1,7 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.xxfer.cn/">
+    <a href="https://blog.lohblvwe.top/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);今天又在努力变强鸭~&center=true&size=27" />
     </a>
   </div>
@@ -150,7 +150,6 @@
 
 <a href="https://blog.lohblvwe.top/"><img src="https://img.shields.io/badge/blog.lohblvwe.top-004788?logo=blogger&logoColor=white" /></a>
 <a href="https://azy.lohblvwe.top/"><img src="https://img.shields.io/badge/azy.lohblvwe.top-004788?logo=blogger&logoColor=white" /></a>
-<a href="telephone：xxxxxxxxxxx"><img src="https://img.shields.io/badge/Wechat-07C160?logo=Wechat&logoColor=white" /></a>
 <a href="https://mail.qq.com/"><img src="https://img.shields.io/badge/595493736@qq.com-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </tr>
 </td>
@@ -400,6 +399,9 @@ Windows                  33 hrs 11 mins      ███████████�
 </tr>
 <tr>
   <td><img src="./assert/Bottom_down.svg"/></td>
+</tr>
+<tr>
+  <td>以上从xxfer处搬运，小改了部分</td>
 </tr>
 </table>
 
