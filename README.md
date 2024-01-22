@@ -80,9 +80,9 @@
 <p align="center">
   <img align="left" width="15%" src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/left.png" />
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=radical&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ljjbyzju&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LJJbyZJU&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=595493736&theme=radical&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=595493736&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=595493736&theme=default&hide_border=true" />
   </picture>
   <img align="right" width="15%"  src="https://cdn.jsdelivr.net/gh/LJJbyZJU/LJJbyZJU/assets/images/right.png" />
 </p>
@@ -98,7 +98,7 @@
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center" width="190%">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ljjbyzju&theme=juicyfresh&column=9&rank=-U"/>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=595493736&theme=juicyfresh&column=9&rank=-U"/>
 </div>
 
 <!-- GitHub 数据统计 -->
@@ -106,10 +106,10 @@
   <table>
     <tr>
       <td>
-        <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=ljjbyzju&theme=radical&show_icons=true&count_private=true" />
+        <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=595493736&theme=radical&show_icons=true&count_private=true" />
       </td>
     <td>
-      <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ljjbyzju&theme=radical&show_icons=true&count_private=true&layout=compact" /></td>
+      <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=595493736&theme=radical&show_icons=true&count_private=true&layout=compact" /></td>
     </tr>
   </table>
 </div>
@@ -119,9 +119,9 @@
     <tr>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&custom_title=595493736's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljjbyzju&theme=xcode&bg_color=FF000000&hide_border=true" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=595493736&custom_title=595493736's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=595493736&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=595493736&theme=xcode&bg_color=FF000000&hide_border=true" />
         </picture>
     </tr>
   </table>
