@@ -148,7 +148,7 @@
 
 - 📫 How to reach me :
 
-<a href="https://blog.lohblvwe.top/"><img src="https://img.shields.io/badge/blog.lohblvwe.top-004788?logo=blogger&logoColor=white" /></a>
+<a href="https://blob.lohblvwe.top/"><img src="https://img.shields.io/badge/blob.lohblvwe.top-004788?logo=blogger&logoColor=white" /></a>
 <a href="https://azy.lohblvwe.top/"><img src="https://img.shields.io/badge/azy.lohblvwe.top-004788?logo=blogger&logoColor=white" /></a>
 <a href="https://mail.qq.com/"><img src="https://img.shields.io/badge/595493736@qq.com-0078D4?logo=Microsoft-Teams&logoColor=white" /></a>&emsp;<!-- visitor statistics logo 访问量统计徽标 --><img src="https://komarev.com/ghpvc/?username=ljjbyzju&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </tr>
