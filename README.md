@@ -45,6 +45,7 @@
 * <a href='https://status.lohblvwe.top/' target='_blank'>网站状态监控</a> - 2023-01-15
 * <a href='https://img.lohblvwe.top/' target='_blank'>图床</a> - 2024-01-20
 * <a href='https://halo.lohblvwe.top/' target='_blank'>子比主题博客</a> - 2024-02-20
+* <a href='https://595493736.github.io/pintree/' target='_blank'>我的书签页</a> - 2024-08-08
 <!-- END_SECTION:blog -->
 
 <!-- for beauty 留个空行好看点 -->
